@@ -1,10 +1,10 @@
 ---
 name:
-  en: 
+  en: Test
 desc:
-  en: 
-ruleSet: 
-theme: 
+  en: Test
+ruleSet: Test
+theme: Test
 initialCash: 0
 targetAmount: 0
 baseSalary: 0
@@ -16,5 +16,5 @@ tourMode:
   opponent1: 
   opponent2: 
   opponent3: 
-background: 
+background: Test
 ...
